@@ -1,0 +1,8 @@
+C:\Sonar\Git\HappyNumbers\bin\Debug\HappyNumbers.exe.config
+C:\Sonar\Git\HappyNumbers\bin\Debug\HappyNumbers.exe
+C:\Sonar\Git\HappyNumbers\bin\Debug\HappyNumbers.pdb
+C:\Sonar\Git\HappyNumbers\obj\Debug\HappyNumbers.csproj.AssemblyReference.cache
+C:\Sonar\Git\HappyNumbers\obj\Debug\HappyNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Sonar\Git\HappyNumbers\obj\Debug\HappyNumbers.csproj.CoreCompileInputs.cache
+C:\Sonar\Git\HappyNumbers\obj\Debug\HappyNumbers.exe
+C:\Sonar\Git\HappyNumbers\obj\Debug\HappyNumbers.pdb
