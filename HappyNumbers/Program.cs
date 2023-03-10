@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace HappyNumbers
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine(FindHappyNumbers());
             Console.ReadLine();
+
         }
 
         private static string FindHappyNumbers()
