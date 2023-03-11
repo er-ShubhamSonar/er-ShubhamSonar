@@ -25,6 +25,7 @@ namespace HappyNumbers
             int[] NumbersFound = new int[NumbersToFind];
             int HappyNumbersFound = 0;
             int startingNum = 1;
+            int abc;
             int num = 1;
             const int searchLoopLimit = 10;
             int searchLoops = 0;
