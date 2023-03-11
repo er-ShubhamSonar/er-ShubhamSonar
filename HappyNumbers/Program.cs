@@ -13,6 +13,7 @@ namespace HappyNumbers
             Console.WriteLine(FindHappyNumbers());
             Console.ReadLine();
 
+
         }
 
         private static string FindHappyNumbers()
