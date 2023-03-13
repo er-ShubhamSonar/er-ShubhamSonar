@@ -14,6 +14,7 @@ namespace HappyNumbers
             Console.ReadLine();
 
 
+
         }
 
         private static string FindHappyNumbers()
