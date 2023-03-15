@@ -6,3 +6,11 @@ C:\Sonar\Git\HappyNumbers\obj\Debug\HappyNumbers.csproj.SuggestedBindingRedirect
 C:\Sonar\Git\HappyNumbers\obj\Debug\HappyNumbers.csproj.CoreCompileInputs.cache
 C:\Sonar\Git\HappyNumbers\obj\Debug\HappyNumbers.exe
 C:\Sonar\Git\HappyNumbers\obj\Debug\HappyNumbers.pdb
+C:\Users\Ssonar\Source\Repos\er-ShubhamSonar\HappyNumbers\bin\Debug\HappyNumbers.exe.config
+C:\Users\Ssonar\Source\Repos\er-ShubhamSonar\HappyNumbers\bin\Debug\HappyNumbers.exe
+C:\Users\Ssonar\Source\Repos\er-ShubhamSonar\HappyNumbers\bin\Debug\HappyNumbers.pdb
+C:\Users\Ssonar\Source\Repos\er-ShubhamSonar\HappyNumbers\obj\Debug\HappyNumbers.csproj.AssemblyReference.cache
+C:\Users\Ssonar\Source\Repos\er-ShubhamSonar\HappyNumbers\obj\Debug\HappyNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ssonar\Source\Repos\er-ShubhamSonar\HappyNumbers\obj\Debug\HappyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ssonar\Source\Repos\er-ShubhamSonar\HappyNumbers\obj\Debug\HappyNumbers.exe
+C:\Users\Ssonar\Source\Repos\er-ShubhamSonar\HappyNumbers\obj\Debug\HappyNumbers.pdb
