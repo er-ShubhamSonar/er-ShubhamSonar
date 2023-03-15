@@ -44,7 +44,7 @@ jobs:
         shell: powershell
         run: |
           cd HappyNumbers
-          .\.\.sonar\scanner\dotnet-sonarscanner begin /k:"er-ShubhamSonar_er-ShubhamSonar" /o:"er-shubhamsonar" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
+          .\.sonar\scanner\dotnet-sonarscanner begin /k:"er-ShubhamSonar_er-ShubhamSonar" /o:"er-shubhamsonar" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
           dotnet build
-          .\.\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
+          .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
           
